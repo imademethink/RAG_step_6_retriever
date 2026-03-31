@@ -2,7 +2,7 @@
 
 <img width="1536" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/f75e210c-c78e-4a2f-8575-d4cf66837a78" />
 
-# YouTube video with detailed explaination and demo https://youtu.be/-qJwyLAuzTY
+# YouTube video with detailed explaination and demo https://youtu.be/T-2UHIW7VIc
 
 Finds and returns the most relevant chunks from the database based on query similarity
 
